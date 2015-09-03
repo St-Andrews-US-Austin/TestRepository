@@ -1,2 +1,2 @@
 # TestRepository
-For testing
+For testing purposes
