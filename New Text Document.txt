@@ -1,1 +1,5 @@
-This is a test file
+This is a test file.
+--- Mr. T says
+Hey Im changing this program to make it more fun.
+Next using github desktop, I will commit this changed file to master to update my local git repository (with a comment about the change)
+Then I will 'sync'  to update the the githum repository so that all can see it and sync their local copies.
